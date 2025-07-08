@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/runtimeBFV.dir/src/runtimeBFV.cpp.o CMakeFiles/runtimeBFV.dir/src/utils.cpp.o -o runtimeBFV  /usr/local/lib/libseal-4.1.a 
